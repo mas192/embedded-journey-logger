@@ -29,7 +29,7 @@ twitter_username: yangmas192
 github_username:  mas192
 
 # Build settings
-theme: just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 
