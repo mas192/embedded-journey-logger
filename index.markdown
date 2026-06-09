@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+### Quick Links
+* [Progress Tracker]({{ site.baseurl }}/progress/)
